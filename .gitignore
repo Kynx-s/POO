@@ -25,3 +25,4 @@ replay_pid*
 /adaptive-system/plugin-api/target/
 /adaptive-system/plugins-java/target/
 /adaptive-system/plugins-scala/target/
+/adaptive-system/adaptive-core/target/

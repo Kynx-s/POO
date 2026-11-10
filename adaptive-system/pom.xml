@@ -13,8 +13,8 @@
 <modules>
     <module>plugin-api</module>
     <module>plugins-java</module>
-    <module>plugins-scala</module> 
-    <!-- <module>adaptive-core</module> -->
+    <module>plugins-scala</module>
+    <module>adaptive-core</module>
     <!-- <module>launcher</module> -->
 </modules>
 

@@ -10,13 +10,13 @@
     <packaging>pom</packaging>
     <name>Adaptive Document Processor</name>
 
-    <modules>
-        <module>plugin-api</module>
-        <module>plugins-java</module>
-        <module>plugins-scala</module>
-        <module>adaptive-core</module>
-        <module>launcher</module>
-    </modules>
+<modules>
+    <module>plugin-api</module>
+    <module>plugins-java</module>
+    <!-- <module>plugins-scala</module> -->
+    <!-- <module>adaptive-core</module> -->
+    <!-- <module>launcher</module> -->
+</modules>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

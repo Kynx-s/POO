@@ -15,7 +15,7 @@
     <module>plugins-java</module>
     <module>plugins-scala</module>
     <module>adaptive-core</module>
-    <!-- <module>launcher</module> -->
+    <module>launcher</module>
 </modules>
 
     <properties>

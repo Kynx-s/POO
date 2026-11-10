@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>pe.edu.utp.adaptive</groupId>
+        <artifactId>adaptive-system</artifactId>
+        <version>1.0.0-SNAPSHOT</version>
+    </parent>
+    <artifactId>launcher</artifactId>
+    <name>launcher (aplicación final)</name>
+
+    <properties>
+        <exec.mainClass>pe.edu.utp.adaptive.launcher.Main</exec.mainClass>
+    </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>pe.edu.utp.adaptive</groupId>
+            <artifactId>adaptive-core</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>pe.edu.utp.adaptive</groupId>
+            <artifactId>plugins-java</artifactId>
+            <version>${project.version}</version>
+            <scope>runtime</scope>
+        </dependency>
+        <dependency>
+            <groupId>pe.edu.utp.adaptive</groupId>
+            <artifactId>plugins-scala</artifactId>
+            <version>${project.version}</version>
+            <scope>runtime</scope>
+        </dependency>
+    </dependencies>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.codehaus.mojo</groupId>
+                <artifactId>exec-maven-plugin</artifactId>
+                <configuration>
+                    <mainClass>pe.edu.utp.adaptive.launcher.Main</mainClass>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+</project>

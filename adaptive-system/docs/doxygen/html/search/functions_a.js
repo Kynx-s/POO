@@ -1,7 +1,0 @@
-var searchData=
-[
-  ['pluginexception_0',['PluginException',['../classpe_1_1edu_1_1utp_1_1adaptive_1_1core_1_1_plugin_exception.html#a710faa97c004235b8a545cff7ae445c4',1,'pe.edu.utp.adaptive.core.PluginException.PluginException(String message)'],['../classpe_1_1edu_1_1utp_1_1adaptive_1_1core_1_1_plugin_exception.html#ae593fac0a8918d84f8948baf2022396f',1,'pe.edu.utp.adaptive.core.PluginException.PluginException(String message, Throwable cause)']]],
-  ['pluginregistry_1',['PluginRegistry',['../classpe_1_1edu_1_1utp_1_1adaptive_1_1core_1_1_plugin_registry.html#afb792cfd4054c73745a299eb5ddd1380',1,'pe::edu::utp::adaptive::core::PluginRegistry']]],
-  ['process_2',['process',['../classpe_1_1edu_1_1utp_1_1adaptive_1_1plugins_1_1java_1_1_fast_strategy.html#a85cc9ef049e78eca9871beb02ef03b13',1,'pe.edu.utp.adaptive.plugins.java.FastStrategy.process()'],['../classpe_1_1edu_1_1utp_1_1adaptive_1_1plugins_1_1java_1_1_safe_strategy.html#a494c0017351f4da78b43d2139ea63275',1,'pe.edu.utp.adaptive.plugins.java.SafeStrategy.process()'],['../classpe_1_1edu_1_1utp_1_1adaptive_1_1plugins_1_1java_1_1_timed_text_strategy.html#a767db631f1e834c4fc8df8e6dde50bcc',1,'pe.edu.utp.adaptive.plugins.java.TimedTextStrategy.process()'],['../classpe_1_1edu_1_1utp_1_1adaptive_1_1core_1_1_adaptive_engine.html#aa091f662377089ee337f184e3a82e34b',1,'pe.edu.utp.adaptive.core.AdaptiveEngine.process()']]],
-  ['processingrecord_3',['ProcessingRecord',['../namespacepe_1_1edu_1_1utp_1_1adaptive_1_1persistence.html#a26c942b183c88a24a920efc63f419f3a',1,'pe::edu::utp::adaptive::persistence']]]
-];

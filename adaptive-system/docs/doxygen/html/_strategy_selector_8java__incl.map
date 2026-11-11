@@ -1,9 +1,0 @@
-<map id="adaptive&#45;core/src/main/java/pe/edu/utp/adaptive/core/StrategySelector.java" name="adaptive&#45;core/src/main/java/pe/edu/utp/adaptive/core/StrategySelector.java">
-<area shape="rect" id="Node000001" title=" " alt="" coords="91,5,270,64"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,120,97,147"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,64,82,113,79,108,139,65"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="121,120,240,147"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="182,62,183,105,178,103,179,66"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="264,112,424,155"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="230,62,298,103,293,104,228,67"/>
-</map>

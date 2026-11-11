@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$interfacepe_1_1edu_1_1utp_1_1adaptive_1_1api_1_1_strategy.html" title=" " alt="" coords="5,39,166,81"/>
+<area shape="rect" id="Node000001" href="$classpe_1_1edu_1_1utp_1_1adaptive_1_1plugins_1_1java_1_1_timed_text_strategy.html" title=" " alt="" coords="214,39,426,81"/>
+<area shape="poly" id="edge1_Node000000_Node000001" title=" " alt="" coords="181,57,216,60,211,60,181,63"/>
+<area shape="rect" id="Node000002" href="$classpe_1_1edu_1_1utp_1_1adaptive_1_1plugins_1_1java_1_1_fast_strategy.html" title=" " alt="" coords="474,5,686,48"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="441,42,476,40,471,41,442,47"/>
+<area shape="rect" id="Node000003" href="$classpe_1_1edu_1_1utp_1_1adaptive_1_1plugins_1_1java_1_1_safe_strategy.html" title=" " alt="" coords="474,72,686,115"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="442,73,476,80,471,80,441,78"/>
+</map>

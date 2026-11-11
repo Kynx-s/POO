@@ -30,3 +30,4 @@ replay_pid*
 /adaptive-system/persistence/target/
 .env
 data/
+docs/doxygen/

@@ -1,0 +1,19 @@
+<map id="persistence/src/main/java/pe/edu/utp/adaptive/persistence/JdbcProcessingRecordDao.java" name="persistence/src/main/java/pe/edu/utp/adaptive/persistence/JdbcProcessingRecordDao.java">
+<area shape="rect" id="Node000001" title=" " alt="" coords="570,5,801,80"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,128,142,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="570,65,158,129,157,124,569,60"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="166,128,349,155"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="572,70,329,127,328,121,567,70"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="373,128,502,155"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="594,80,485,125,483,119,588,81"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="526,128,680,155"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="657,79,625,118,622,114,652,81"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="704,128,835,155"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="718,78,751,117,746,115,716,83"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="859,128,981,155"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="775,78,878,122,873,121,774,83"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="1005,128,1096,155"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="802,72,993,124,988,124,801,77"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="1121,128,1239,155"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="802,64,1108,125,1103,126,801,69"/>
+</map>

@@ -22,3 +22,12 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+/adaptive-system/plugin-api/target/
+/adaptive-system/plugins-java/target/
+/adaptive-system/plugins-scala/target/
+/adaptive-system/adaptive-core/target/
+/adaptive-system/launcher/target/
+/adaptive-system/persistence/target/
+.env
+data/
+docs/doxygen/

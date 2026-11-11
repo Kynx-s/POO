@@ -16,6 +16,7 @@
     <module>plugins-scala</module>
     <module>adaptive-core</module>
     <module>launcher</module>
+    <module>persistence</module>
 </modules>
 
     <properties>

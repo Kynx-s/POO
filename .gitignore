@@ -27,3 +27,6 @@ replay_pid*
 /adaptive-system/plugins-scala/target/
 /adaptive-system/adaptive-core/target/
 /adaptive-system/launcher/target/
+/adaptive-system/persistence/target/
+.env
+data/
